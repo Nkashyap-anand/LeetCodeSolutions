@@ -3,7 +3,7 @@ class Solution
 public:
     int maxResult(vector<int> &nums, int k)
     {
-        // to process elm
+        // to process elm monotonic
         deque<int> q;
         int n = nums.size();
         // to store max score
