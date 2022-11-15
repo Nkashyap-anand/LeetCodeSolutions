@@ -54,4 +54,3 @@ public:
         return count;
     }
 };
-Console
